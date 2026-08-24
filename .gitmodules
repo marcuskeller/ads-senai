@@ -1,0 +1,6 @@
+[submodule "desenvolvimento-web/fa-clube"]
+	path = desenvolvimento-web/fa-clube
+	url = https://github.com/marcuskeller/fa-clube.git
+[submodule "desenvolvimento-web/javaScript/projeto-final-javascript"]
+	path = desenvolvimento-web/javaScript/projeto-final-javascript
+	url = https://github.com/marcuskeller/javascript-final-project.git
